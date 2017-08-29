@@ -16,6 +16,6 @@ $FSLDIR/data/standard/MNI152_T1_1mm_brain_mask.nii.gz
 $FSLDIR/data/atlases/MNI/MNI-maxprob-thr25-1mm.nii.gz
 
 
-3) Color table were exported from the original label files
+3) Color tables were exported from the original label files
 
 
